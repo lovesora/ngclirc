@@ -1,6 +1,10 @@
 # ngclirc
 angular cli rc
 
+## Configuration
+1. change packageManager from `npm` to `yarn`
+2. change default style ext from `css` to `scss`
+
 # Usage
 ## Step 1. Install ngclirc
 ```bash
