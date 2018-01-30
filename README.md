@@ -16,3 +16,14 @@ npm i -D ngclirc
 cp .angular-cli.json ~/.angular-cli.json
 ```
 
+## Rules
+```js
+{
+  "defaults": {
+    // 默认使用scss编译
+    "styleExt": "scss"
+  },
+  // 使用yarn代替npm
+  "packageManager": "yarn"
+}
+```
